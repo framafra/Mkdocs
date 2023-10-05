@@ -1,0 +1,15 @@
+site_name: Mi primera página
+docs_dir: 'md'
+site_dir: 'docs'
+
+nav:
+  - Home: 'index.md'
+  - About: 'yo.md'
+
+
+theme:
+  name: mkdocs
+  nav_style: dark
+  extra_css:
+  - css/style.css
+  
